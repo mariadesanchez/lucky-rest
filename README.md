@@ -15,6 +15,16 @@ ejecutamos en consola el siguiente comando para generar un código único:
 openssl rand -base64 32
 AUTH_SECRET="JXN6MEHZv3dEkdeKGwYx1/c/NivQvlAtPAldC+bk+WE=" -->
 
+Cloudinary
+
+npm install cloudinary
+ir a Dashboard API environment variable
+CLOUDINARY_URL=cloudinary://...----....
+
+
+
+
+
 
 
 1. Clonar el repositorio.
